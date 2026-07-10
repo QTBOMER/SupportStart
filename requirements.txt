@@ -1,0 +1,8 @@
+streamlit>=1.37
+anthropic>=0.34
+pandas>=2.0
+
+# Optional — only needed if you connect a hosted Postgres via DATABASE_URL.
+# Uncomment to enable persistent storage. Leaving it out keeps the app on
+# local SQLite and avoids build issues on some hosts.
+# psycopg2-binary>=2.9
