@@ -109,3 +109,12 @@ locks after 5 failed attempts and every attempt is audit-logged.
 - Add step visuals: `visuals.py`
 - Real ITSM submission: replace the simulated submit in `app.py` with your platform's
   API (e.g., ServiceNow Table API) — the ticket dict maps directly.
+## License
+
+Copyright © 2026 Quinton Bomer.
+
+Current versions of this project are licensed under the GNU Affero
+General Public License v3.0.
+
+Versions published before July 9, 2026 may remain available under the
+license terms that applied when they were released.
